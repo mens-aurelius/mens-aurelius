@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I learned how to code in college, and then took a major career detour in the military. I haven't done any coding in a few years, but excited to get back into it!
+
+Now I work at Palantir and lead our new startups business.
+
+I'm working on some side projects to build up my skills, splitting time between here and building in AIP / Foundry.
+
+
 <!--
 **mens-aurelius/mens-aurelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
